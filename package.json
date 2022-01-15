@@ -23,7 +23,7 @@
         "express-formidable": "git+https://github.com/utatti/express-formidable.git",
         "express-session": "^1.16.2",
         "express-winston": "^3.3.0",
-        "marked": "^0.7.0",
+        "marked": "^4.0.10",
         "moment": "^2.24.0",
         "mongolass": "^4.4.3",
         "mongoose": "^5.7.0",
